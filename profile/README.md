@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Foundation-LastHuman/.github/main/profile/lasthuman_github.png" alt="LASTHUMAN Foundation" width="480">
+  <img src="https://raw.githubusercontent.com/Foundation-LastHuman/.github/main/lasthuman_github.png" alt="LASTHUMAN Foundation" width="480">
 </p>
 
 <h1 align="center">Foundation LastHuman</h1>
