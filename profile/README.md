@@ -2,7 +2,7 @@
   <img src="lasthuman.png" alt="LASTHUMAN Foundation" width="480">
 </p>
 
-<h1 align="center">LASTHUMAN Foundation</h1>
+<h1 align="center">Foundation LastHuman</h1>
 
 <p align="center"><strong>Protecting, redefining and advancing the role of humanity in the age of AI</strong></p>
 <p align="center"><em>For humans. With humans. Around humans.</em></p>
