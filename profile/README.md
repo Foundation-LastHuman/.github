@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="lasthuman.png" alt="LASTHUMAN Foundation" width="480">
+  <img src="lasthuman_github.png" alt="LASTHUMAN Foundation" width="480">
 </p>
 
 <h1 align="center">Foundation LastHuman</h1>
